@@ -1,2 +1,2 @@
 # Conferences.guide
-A all in one platform for conferences, events, seminars organizing across the globe.
+A one-stop global directory that connects event organizers with the right audiences, and helps professionals worldwide discover conferences that matter to them.
